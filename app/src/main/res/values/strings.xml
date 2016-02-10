@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesireNotification for Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_word_set">WordSetActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+    <string name="word_set">検索ワード設定</string>
+    <string name="show_result">検索結果表示</string>
+</resources>
